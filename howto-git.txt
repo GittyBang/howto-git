@@ -7,7 +7,7 @@ git add { . | filelist }
 git commit -m "describing message for this commit"
 
 # add to remote site (publish):
-git remote add origin https://github.com/...
+git remote add origin https://github.com/GittyBang
 git push -u origin master
 
 git pull origin master
